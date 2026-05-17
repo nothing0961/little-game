@@ -25,4 +25,4 @@
 
 直接在浏览器中打开 `tetris.html` 即可开始游戏。
 
-[在线体验](https://nothing0961.github.io/tetris/)
+[在线体验](https://nothing0961.github.io/little-game/tetris.html)
